@@ -9,15 +9,10 @@ I'm a CSE graduate working as an AI engineer, and I do research on trustworthy m
 - **Enhancing Prediction Accuracy using Ensemble Deep Learning Methods on Time Series Data**, ICISET 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10939673) · [Code](https://github.com/empresst/ICISET)
   - Follow-up: [STI](https://github.com/empresst/STI) adds temporal multi-head attention to the same BiLSTM/BiGRU/TCN ensemble
 
-### Projects
+### Live demos
 
-| Project | What it does |
-|---|---|
-| [kotha-ai](https://github.com/empresst/kotha-ai) | Bangla AI voice receptionist for dental clinics. Books, reschedules and cancels real appointments over a live call. [Live demo](https://kotha-ai-bd.vercel.app) |
-| [AI_messenger](https://github.com/empresst/AI_messenger) + [EchoSoul](https://github.com/empresst/EchoSoul) | Messenger with an AI mode that replies in your own tone, using RAG over your journals and past chats |
-| [VisionLanguage-Recipe-Generator](https://github.com/empresst/VisionLanguage-Recipe-Generator) | Turns cooking videos into structured recipes from visual frames and audio |
-| [book-id-scanner](https://github.com/empresst/book-id-scanner) | Identifies the prescribing doctor from prescription photos with ResNet-50, OCR and retrieval |
-| [Java_AndroidApp](https://github.com/empresst/Java_AndroidApp) | Android app for maternal health in Bangladesh: trimester diet plans, symptom-based disease prediction and reminders |
+- [Kotha AI](https://kotha-ai-bd.vercel.app): Bangla voice receptionist that books real clinic appointments over a call
+- [AI Messenger](https://ai-twin-fastapi.onrender.com): chat with a family member's AI twin (demo logins in the [repo](https://github.com/empresst/AI_messenger); the free server can take a minute to wake up)
 
 ### Tools I use
 
