@@ -17,7 +17,3 @@ I'm a freelance AI engineer and ML/DL researcher. My research is on deep learnin
 ### Tools I use
 
 Python, PyTorch, TensorFlow, scikit-learn, XGBoost, OpenCV, Hugging Face, LangChain, LiveKit, FastAPI, Next.js, PostgreSQL
-
-### Contact
-
-Portfolio: [empresst.github.io](https://empresst.github.io)
